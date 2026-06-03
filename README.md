@@ -52,4 +52,4 @@ I build things that matter to the communities I serve.
 
 ## Contact
 Email: rafaelsiberon@gmail.com
-Website: :contentReference[oaicite:0]{index=0}
+[![Website](https://img.shields.io/badge/Website-SkyScope_Dynamics-green?logo=googlechrome)](https://skyscopedynamics.com)
