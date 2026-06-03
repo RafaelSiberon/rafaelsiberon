@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rafael Siberón Caraballo
 
-<!--
-**RafaelSiberon/rafaelsiberon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Educator, Librarian, FAA Part 107 Drone Pilot, Civil Air Patrol Officer, and Software Development Student.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Educational Technology
+- Software Development
+- Artificial Intelligence
+- Drone Operations (FAA Part 107)
+- Civil Air Patrol UAS Program
+- Library Science
+- Cybersecurity
+- Aerospace Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Suite_PSBI
+- Library Management Systems
+- Drone Mission Management Tools
+- Civil Air Patrol UAS Resources
+
+## Certifications
+- FAA Part 107 Remote Pilot
+- TRUST Certificate
+- Acosta Tech UAS Training
+
+## Contact
+Email: rafaelsiberon@gmail.com
+Website: :contentReference[oaicite:0]{index=0}
