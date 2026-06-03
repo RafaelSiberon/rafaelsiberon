@@ -29,17 +29,17 @@ Educator, Librarian, FAA Part 107 Drone Pilot, Civil Air Patrol Officer, and Sof
 - Drone Operations (FAA Part 107)
 - Civil Air Patrol UAS Program
 - Library Science
-- Cybersecurity
 - Aerospace Education
 
 ## Current Projects
-- Software engineering course
+- Software engineering course projects
 - Educational project
+- School Libraries platform
+- CAP sUAS Flights Operation Platform
 
 ## Certifications
 - Teacher Librarian at Puerto Rico Department of Education
 - FAA Part 107 Remote Pilot
-- TRUST Certificate
 - Acosta Tech UAS Training
 
 ## Contact
